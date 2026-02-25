@@ -327,3 +327,24 @@ git commit -m "feat(frontend): add backend health check button"
 git push
 ```
 
+Now, I would like to introduce the whole process of task1.
+First, I need to install node.js and other plug-in to complete the whole task1.
+
+And I fix the code to show the original interface.
+![alt text](8ad8174490fe14109d766f75e35fe367.png)
+
+I fix the code of page.tsx to show the summary interface.
+![alt text](306796cd8f1c60f552701c855d17e7e3.png)
+
+Test:
+![alt text](3b051f7560c7a21d60a25ef2b8407ede.png)
+
+This is following:
+![alt text](9feb8569581f8740f209a5309357c755.png)
+
+And then I add frontend and botton to update:
+![alt text](bfc1972c15caecd907d80eff55d587bd.png)
+![alt text](09d8ea6f51fec10a71c47dc9e571ac68.png)
+
+After click the botton, it shows:
+![alt text](fc70d83991579230d3b4dabc86c374e1.png)
